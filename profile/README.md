@@ -1,4 +1,4 @@
-## Hello from the big four 👋
+# Hello from the big four 👋
 
 ## Goal of this Organization
 It was made to learn more of Github while making the last project of the common core called "ft_transcendence".
